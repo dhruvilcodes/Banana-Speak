@@ -1,7 +1,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Kalam&display=swap");
 
 title {
-    background-color: yellow;
+    background-color: red;
 }
 
 body{
@@ -9,7 +9,7 @@ body{
 }
 
 nav {
-    background-color: yellow;
+    background-color: red;
     text-align: center;
     padding: 1rem;
     position: absolute;
@@ -69,7 +69,7 @@ nav {
 
 .end {
     text-align: center;
-    background-color: yellow;
+    background-color: red;
     font-family:Georgia, 'Times New Roman', Times, serif;
 }
 
@@ -80,12 +80,12 @@ nav {
 
 .foot {
     text-align: center;
-    background-color: yellow;
+    background-color: red;
 }
 
 /* .foot {
     text-align: center;
-    background-color: yellow;
+    background-color: red;
 }
 
 .foot p {
